@@ -29,8 +29,8 @@ Lately I've been deep into LangGraph agent pipelines and AI-assisted developer t
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adinathmk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinathmk&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Adinathmk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adinathmk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ Lately I've been deep into LangGraph agent pipelines and AI-assisted developer t
 ### ⏱️ Productive Time (Punch Card)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adinathmk&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Adinathmk&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 ### 🏆 Trophies
