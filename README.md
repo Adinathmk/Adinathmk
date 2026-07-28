@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Adinath 👋</h1>
 
-<!--
-**Adinathmk/Adinathmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Full Stack Developer interning at <b>Bridgeon Solutions</b> · Calicut, Kerala, India
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+I build full-stack products end to end — React/TypeScript on the front, Django/FastAPI on the back,
+with real infra behind them: PostgreSQL, Kafka, Celery, Redis, and Kubernetes deployments.
+Lately I've been deep into LangGraph agent pipelines and AI-assisted developer tooling.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+🚀 Flagship projects: <b>NeuralOps</b> (AI-powered production incident debugging SaaS) and
+<b>ActiveCore</b> (e-commerce platform, 67+ REST APIs, Stripe, WebSockets, AI chatbot)
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:** React · TypeScript · Redux · Tailwind CSS
+**Backend:** Django · FastAPI
+**Data & Infra:** PostgreSQL · Kafka · Celery · Redis · Docker · Kubernetes
+**AI/Agents:** LangGraph pipelines
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adinathmk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinathmk&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adinathmk&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adinathmk&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adinathmk&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| **NeuralOps** | AI-powered production incident debugging platform with an agentic pipeline and Kubernetes-based deployment |
+| **ActiveCore** | Full-featured e-commerce platform — 67+ REST APIs, Stripe payments, real-time WebSockets, AI chatbot |
+| **BookMyVenue** | Venue booking platform with a hybrid search architecture powered by Google Places integration |
+| **U-Net Brain Tumor Segmentation** | Deep learning model for medical image segmentation |
+
+---
+
+### 📫 Reach Me
+
+[LinkedIn](#) · [Portfolio](#) · [Email](#)
+
+<p align="center"><i>Always building, always shipping.</i></p>
