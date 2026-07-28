@@ -28,8 +28,9 @@ Lately I've been deep into LangGraph agent pipelines and AI-assisted developer t
 
 <table>
 <tr>
-<td>
-<img width="480" src="https://github-stats-extended.vercel.app/api?username=Adinathmk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<td align="center" width="480">
+<img width="330" src="https://github-stats-extended.vercel.app/api?username=Adinathmk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" />
+<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </td>
 <td>
 <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=Adinathmk&theme=tokyonight&hide_border=true" />
