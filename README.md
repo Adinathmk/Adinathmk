@@ -29,7 +29,7 @@ Lately I've been deep into LangGraph agent pipelines and AI-assisted developer t
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adinathmk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adinathmk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinathmk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -43,8 +43,22 @@ Lately I've been deep into LangGraph agent pipelines and AI-assisted developer t
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adinathmk&theme=tokyo-night&hide_border=true" />
 </p>
 
+### ⏱️ Productive Time (Punch Card)
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adinathmk&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adinathmk&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adinathmk&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+### 📅 Metrics Dashboard
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Adinathmk?template=classic&base.header=0&base.activity=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia/Calcutta" />
 </p>
 
 ---
