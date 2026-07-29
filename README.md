@@ -3,7 +3,7 @@
 <p align="center">
   <b>Software Engineer • Full-Stack Developer • AI Engineer</b><br>
   <br>
-  Building software that scales—from intuitive user experiences to resilient backend systems. Passionate about designing clean, maintainable architectures, embracing cloud-native technologies, and leveraging AI to create intelligent, production-ready solutions that solve real-world problems.
+  Building software that scales—from intuitive user experiences to resilient backend systems. Passionate about clean architecture, cloud-native technologies, and AI-driven solutions that solve real-world problems.
 </p>
 
 <p align="center">
