@@ -48,19 +48,11 @@ Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
 
 ---
 
-<p align="center">
+[![Instagram](https://img.shields.io/badge/Instagram-%2324292F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adinathmk)
 
-<a href="https://github.com/Adinathmk">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2324292F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adinath-m-k/)
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2324292F?style=for-the-badge&logo=firefox&logoColor=white)](https://adinathmk.dev)
 
 
 </p>
