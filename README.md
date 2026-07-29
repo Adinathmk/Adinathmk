@@ -17,20 +17,25 @@ Lately I've been deep into LangGraph agent pipelines and AI-assisted developer t
 </p>
 
 ---
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img width="470"
-       src="https://github-stats-extended.vercel.app/api?username=Adinathmk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-
-  <img width="470"
-       src="https://streak-stats.demolab.com?user=Adinathmk&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"/>
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=Adinathmk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&bg_color=22272e&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=Adinathmk&hide_border=true&background=22272e&ring=58a6ff&fire=ff9d00&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"
+  />
 </p>
 
 <p align="center">
-  <img width="100%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Adinathmk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff"/>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Adinathmk&theme=tokyo-night&hide_border=true&bg_color=22272e&color=58a6ff&line=c9d1d9&point=58a6ff"
+  />
 </p>
-
 ---
 
 <p align="center">
