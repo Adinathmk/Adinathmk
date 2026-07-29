@@ -44,10 +44,10 @@
 ---
 
 <p align="center">
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/____adhi_.__/">
     <img src="https://img.shields.io/badge/Instagram-%2324292F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+  <a href="https://www.linkedin.com/in/adinath-m-k/">
     <img src="https://img.shields.io/badge/LinkedIn-%2324292F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://YOUR_PORTFOLIO_URL">
