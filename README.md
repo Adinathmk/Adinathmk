@@ -38,14 +38,11 @@ Lately I've been deep into LangGraph agent pipelines and AI-assisted developer t
 
 ---
 
-### 📌 Featured Projects
+### 📈 Contribution Graph
 
-| Project | Description |
-|---|---|
-| **NeuralOps** | AI-powered production incident debugging platform with an agentic pipeline and Kubernetes-based deployment |
-| **ActiveCore** | Full-featured e-commerce platform — 67+ REST APIs, Stripe payments, real-time WebSockets, AI chatbot |
-| **BookMyVenue** | Venue booking platform with a hybrid search architecture powered by Google Places integration |
-| **U-Net Brain Tumor Segmentation** | Deep learning model for medical image segmentation |
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adinathmk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff" />
+</p>
 
 ---
 
