@@ -28,7 +28,7 @@ Lately I've been deep into LangGraph agent pipelines and AI-assisted developer t
 <table>
 <tr>
 <td width="480">
-<img width="410" src="https://github-stats-extended.vercel.app/api?username=Adinathmk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+<img width="320" src="https://github-stats-extended.vercel.app/api?username=Adinathmk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
 </td>
 <td>
 <img width="410" src="https://streak-stats.demolab.com/?user=Adinathmk&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
