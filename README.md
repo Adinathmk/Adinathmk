@@ -1,73 +1,83 @@
 <h1 align="center">Hi, I'm Adinath 👋</h1>
 
 <p align="center">
-  Full Stack Developer interning at <b>Bridgeon Solutions</b> · Calicut, Kerala, India
+  <b>Full Stack Developer</b> interning at <b>Bridgeon Solutions</b><br>
+  Calicut, Kerala, India 🇮🇳
 </p>
 
 <p align="center">
-I build full-stack products end to end — React/TypeScript on the front, Django/FastAPI on the back,
-with real infrastructure behind them: PostgreSQL, Kafka, Celery, Redis, Docker, Kubernetes, and AWS.
-Lately I've been deep into LangGraph agent pipelines, AI-assisted developer tooling, and scalable backend architecture.
+I build scalable full-stack applications with React, TypeScript, Django, FastAPI,
+PostgreSQL, Redis, Docker and Kubernetes.<br>
+Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,ts,tailwind,django,fastapi,postgres,redis,docker,kubernetes,git,github,aws" />
+<img src="https://skillicons.dev/icons?i=react,redux,ts,tailwind,django,fastapi,postgres,redis,docker,kubernetes,git,github,aws" />
 </p>
 
 ---
 
-<table>
-<tr>
+## 📊 GitHub Statistics
 
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adinathmk&theme=github_dark" width="100%" />
-</td>
+<p align="center">
 
-<td width="50%">
-<img src="https://streak-stats.demolab.com?user=Adinathmk&theme=github-dark&hide_border=true&border_radius=8" width="100%" />
-</td>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adinathmk&theme=github_dark"/>
 
-</tr>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adinathmk&theme=github_dark"/>
 
-<tr>
+</p>
 
-<td colspan="2">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adinathmk&theme=github-dark&hide_border=true&area=true" width="100%" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adinathmk&theme=github-dark&hide_border=true&area=true"/>
 
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 🚀 GitHub Stats
 
 <p align="center">
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adinathmk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinathmk&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Adinathmk&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7"/>
+
 </p>
 
 ---
 
-<h2 align="center">📈 Contribution Snake</h2>
+## 📈 Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,javascript,html,css,tailwind,nodejs,django,fastapi,python,postgres,redis,mongodb,docker,kubernetes,git,github,linux,aws,vscode" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -79,10 +89,6 @@ Lately I've been deep into LangGraph agent pipelines, AI-assisted developer tool
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID">
-<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-</a>
-
 <a href="https://YOUR_PORTFOLIO">
 <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
@@ -91,8 +97,18 @@ Lately I've been deep into LangGraph agent pipelines, AI-assisted developer tool
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://stackoverflow.com/users/YOUR_ID">
+<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<h3 align="center"><i>Always building. Always shipping. 🚀</i></h3>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Adinathmk&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<h3 align="center">
+Always Building • Always Learning • Always Shipping 🚀
+</h3>
