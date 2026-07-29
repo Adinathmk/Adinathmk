@@ -17,8 +17,6 @@ Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
 
 ---
 
-# 📊 GitHub Statistics
-
 <p align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adinathmk&theme=github_dark" />
