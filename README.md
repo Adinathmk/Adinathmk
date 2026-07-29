@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-I build scalable full-stack applications with React, TypeScript, Django, FastAPI,
-PostgreSQL, Redis, Docker, Kubernetes and AWS.<br>
-Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
+  I build scalable full-stack applications with React, TypeScript, Django, FastAPI,
+  PostgreSQL, Redis, Docker, Kubernetes and AWS.<br>
+  Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
 </p>
 
 <p align="center">
@@ -16,7 +16,8 @@ Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
 </p>
 
 ---
-<div class="d-block" width="99.8%">
+
+<p align="center">
   <a href="https://github.com/Adinathmk" title="GitHub Stats">
     <img
       src="https://fabianocouto-readme-stats.vercel.app/api?username=Adinathmk&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github"
@@ -32,11 +33,9 @@ Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
       width="48.7%"
     />
   </a>
-</div>
+</p>
 
-<br>
-
-<div width="98%" style="width:98%">
+<p align="center">
   <a href="https://github.com/Adinathmk" title="GitHub Activity Graph">
     <img
       src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Adinathmk&theme=github-dark-dimmed&radius=6&area=true"
@@ -44,9 +43,10 @@ Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
       width="98%"
     />
   </a>
-</div>
+</p>
 
 ---
+
 <p align="center">
   <a href="https://instagram.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/Instagram-%2324292F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -58,11 +58,9 @@ Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
     <img src="https://img.shields.io/badge/Portfolio-%2324292F?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
 ---
 
 <h3 align="center">
-
 Always Building • Always Learning • Always Shipping 🚀
-
 </h3>
----
