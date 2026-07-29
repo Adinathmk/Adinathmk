@@ -16,20 +16,35 @@ Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
 </p>
 
 ---
+<div class="d-block" width="99.8%">
+  <a href="https://github.com/Adinathmk" title="GitHub Stats">
+    <img
+      src="https://fabianocouto-readme-stats.vercel.app/api?username=Adinathmk&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github"
+      alt="Adinathmk"
+      width="48.7%"
+    />
+  </a>
 
-<p align="center">
+  <a href="https://github.com/Adinathmk" title="GitHub Streak Stats">
+    <img
+      src="https://fabianocouto-readme-streak-stats.vercel.app/?user=Adinathmk&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5"
+      alt="Adinathmk"
+      width="48.7%"
+    />
+  </a>
+</div>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adinathmk&theme=github_dark" />
+<br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adinathmk&theme=github_dark" />
-
-</p>
-
-<p align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adinathmk&theme=github-dark&hide_border=true&area=true" />
-
-</p>
+<div width="98%" style="width:98%">
+  <a href="https://github.com/Adinathmk" title="GitHub Activity Graph">
+    <img
+      src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Adinathmk&theme=github-dark-dimmed&radius=6&area=true"
+      alt="Adinathmk"
+      width="98%"
+    />
+  </a>
+</div>
 
 ---
 
