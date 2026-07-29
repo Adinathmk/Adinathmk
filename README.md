@@ -12,8 +12,6 @@ Lately I've been deep into LangGraph agent pipelines and AI-assisted developer t
 
 
 
-### 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,ts,tailwind,django,fastapi,postgres,redis,docker,kubernetes,git,github,aws" />
 </p>
@@ -33,15 +31,11 @@ Lately I've been deep into LangGraph agent pipelines and AI-assisted developer t
 
 ---
 
-### 📈 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adinathmk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff" />
 </p>
 
 ---
-
-### 📫 Reach Me
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=white" /></a>
