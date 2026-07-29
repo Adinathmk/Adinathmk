@@ -21,13 +21,13 @@ Lately I've been deep into LangGraph agent pipelines and AI-assisted developer t
 <tr>
 <td width="50%">
 
-<img src="https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Adinathmk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" width="100%"/>
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Adinathmk&theme=github-dark&hide_border=true" width="100%"/>
 
 </td>
 </tr>
@@ -35,7 +35,7 @@ Lately I've been deep into LangGraph agent pipelines and AI-assisted developer t
 <tr>
 <td colspan="2">
 
-<img src="https://github-stats-extended.vercel.app/api/contributions?username=YOUR_USERNAME&theme=github_dark" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/contributions?username=Adinathmk&theme=github_dark" width="100%"/>
 
 </td>
 </tr>
