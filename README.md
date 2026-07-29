@@ -47,10 +47,17 @@ Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
 </div>
 
 ---
-[![Instagram](https://img.shields.io/badge/Instagram-%2324292F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2324292F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2324292F?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-
+<p align="center">
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-%2324292F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-%2324292F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-%2324292F?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 ---
 
 <h3 align="center">
