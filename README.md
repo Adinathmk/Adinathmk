@@ -10,10 +10,6 @@ with real infra behind them: PostgreSQL, Kafka, Celery, Redis, and Kubernetes de
 Lately I've been deep into LangGraph agent pipelines and AI-assisted developer tooling.
 </p>
 
-<p align="center">
-🚀 Flagship projects: <b>NeuralOps</b> (AI-powered production incident debugging SaaS) and
-<b>ActiveCore</b> (e-commerce platform, 67+ REST APIs, Stripe, WebSockets, AI chatbot)
-</p>
 
 ---
 
