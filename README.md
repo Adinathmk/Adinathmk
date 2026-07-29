@@ -2,6 +2,7 @@
 
 <p align="center">
   <b>Software Engineer • Full-Stack Developer • AI Engineer</b><br>
+  <br>
   Building scalable, production-ready applications with React, TypeScript, Django, FastAPI, PostgreSQL, Redis, Docker, Kubernetes and AWS.<br>
   Passionate about AI Agents, LangGraph, MLOps, cloud-native systems, and solving real-world engineering challenges.
 </p>
