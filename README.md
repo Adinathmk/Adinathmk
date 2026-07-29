@@ -1,14 +1,9 @@
 <h1 align="center">Hi, I'm Adinath 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> interning at <b>Bridgeon Solutions</b><br>
-  Calicut, Kerala, India 🇮🇳
-</p>
-
-<p align="center">
-  I build scalable full-stack applications with React, TypeScript, Django, FastAPI,
-  PostgreSQL, Redis, Docker, Kubernetes and AWS.<br>
-  Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
+  <b>Software Engineer • Full-Stack Developer • AI Enthusiast</b><br>
+  Building scalable, production-ready applications with React, TypeScript, Django, FastAPI, PostgreSQL, Redis, Docker, Kubernetes and AWS.<br>
+  Passionate about AI Agents, LangGraph, MLOps, cloud-native systems, and solving real-world engineering challenges.
 </p>
 
 <p align="center">
@@ -59,7 +54,6 @@
   </a>
 </p>
 
----
 
 <h3 align="center">
 Always Building • Always Learning • Always Shipping 🚀
