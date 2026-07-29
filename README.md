@@ -19,10 +19,9 @@ Lately I've been deep into LangGraph agent pipelines and AI-assisted developer t
 
 ### 🛠️ Tech Stack
 
-**Frontend:** React · TypeScript · Redux · Tailwind CSS
-**Backend:** Django · FastAPI
-**Data & Infra:** PostgreSQL · Kafka · Celery · Redis · Docker · Kubernetes
-**AI/Agents:** LangGraph pipelines
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,tailwind,django,fastapi,postgres,redis,docker,kubernetes,git,github,aws" />
+</p>
 
 ---
 
