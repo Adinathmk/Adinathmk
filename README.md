@@ -17,25 +17,29 @@ Lately I've been deep into LangGraph agent pipelines and AI-assisted developer t
 </p>
 
 ---
-<h2 align="center">GitHub Analytics</h2>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=Adinathmk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&bg_color=22272e&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-  />
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=Adinathmk&hide_border=true&background=22272e&ring=58a6ff&fire=ff9d00&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"
-  />
-</p>
+<img src="https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" width="100%"/>
 
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Adinathmk&theme=tokyo-night&hide_border=true&bg_color=22272e&color=58a6ff&line=c9d1d9&point=58a6ff"
-  />
-</p>
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<img src="https://github-stats-extended.vercel.app/api/contributions?username=YOUR_USERNAME&theme=github_dark" width="100%"/>
+
+</td>
+</tr>
+</table>
 ---
 
 <p align="center">
