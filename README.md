@@ -16,13 +16,21 @@ Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
 </p>
 
 ---
+
 <p align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Adinathmk&theme=github_dark&show=reviews,prs_merged,prs_merged_percentage" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adinathmk&theme=github_dark" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Adinathmk&theme=github-dark-blue&hide_border=false" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adinathmk&theme=github_dark" />
 
 </p>
+
+<p align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adinathmk&theme=github-dark&hide_border=true&area=true" />
+
+</p>
+
 ---
 
 <p align="center">
