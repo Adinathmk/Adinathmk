@@ -7,67 +7,67 @@
 
 <p align="center">
 I build scalable full-stack applications with React, TypeScript, Django, FastAPI,
-PostgreSQL, Redis, Docker and Kubernetes.<br>
+PostgreSQL, Redis, Docker, Kubernetes and AWS.<br>
 Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,redux,ts,tailwind,django,fastapi,postgres,redis,docker,kubernetes,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,tailwind,django,fastapi,postgres,redis,docker,kubernetes,git,github,aws" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adinathmk&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adinathmk&theme=github_dark" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adinathmk&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adinathmk&theme=github_dark" />
 
 </p>
 
 <p align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adinathmk&theme=github-dark&hide_border=true&area=true"/>
-
-</p>
-
----
-
-## 🚀 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adinathmk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinathmk&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adinathmk&theme=github-dark&hide_border=true&area=true" />
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🚀 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adinathmk&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adinathmk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adinathmk&layout=compact&theme=github_dark&hide_border=true" />
 
 </p>
 
 ---
 
-## 📈 Contribution Snake
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Adinathmk&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" />
 
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adinathmk&theme=github-dark&hide_border=true&area=true" />
+
+</p>
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -77,16 +77,16 @@ Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://github.com/Adinathmk">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://YOUR_PORTFOLIO">
@@ -106,9 +106,13 @@ Currently exploring AI Agents, LangGraph, MLOps and Cloud Infrastructure.
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Adinathmk&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=Adinathmk&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </p>
 
 <h3 align="center">
+
 Always Building • Always Learning • Always Shipping 🚀
+
 </h3>
